@@ -1,1 +1,2 @@
-// Write your code here!
+main = document.querySelector('main')
+document.body.removeChild(main)
